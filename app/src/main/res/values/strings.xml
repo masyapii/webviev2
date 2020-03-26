@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SMANSA QUIZ</string>
+    <string name="smansa_quiz">SMANSA QUIZ</string>
+    <string name="mulai">Mulai</string>
+    <string name="hello">Hello</string>
+    <string name="siap_ujiankah_hari_ini">Siap Ujiankah Hari Ini ?</string>
+    <string name="ujian">ujian</string>
+    <string name="smansa">SMANSA</string>
+    <string name="versi_1_0">Versi 1.1</string>
+    <string name="exam">TODO</string>
+</resources>
